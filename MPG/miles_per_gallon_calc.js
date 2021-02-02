@@ -6,6 +6,8 @@ let userAsk = true; //main loop flag, true while user wants to continue
 let userMiles = true; //usermile flag, true until valid answer
 let userGallons = true; //usermile flag, true until valid answer
 
+//git hub change :)
+//another comment
 
 while(userAsk)//main loop
 {       
